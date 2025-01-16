@@ -1,0 +1,57 @@
+body{
+    font-family: "Poppins", serif;
+}
+*{
+    margin: 0%;
+    padding: 0%;
+}
+nav{
+    background-color: black;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+.one{
+    color: grey;
+    cursor: pointer;
+    padding: 20px;
+}
+.one:hover{
+    color: white;
+}
+.box{
+    border-color: black;
+    border-style: solid;
+    display: inline-block;
+    width: 220px;
+}
+.Menu{
+    text-align: center;
+    margin: 80px;
+}
+button{
+    background-color: black;
+    color: white;
+    border: 1;
+    padding: 5px;
+}
+button:hover{
+    color: gray;
+}
+.container{
+    background-color: black;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    
+    
+}
+.button-1{
+    background-color: yellow;
+    color: black;
+    padding: 10px;
+    margin: 20px;
+}
+.container-2{
+    padding-left: 530px;
+}
